@@ -42,3 +42,10 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
 >This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](Documentation/readme-end-banner.png)
+
+
+FROM Submariner100
+
+Completed writing the code for this application in a day. I found that this was a revision exercise for me but Angela did touch on some subjects that were very interesting especially Swift Closures and Completion Handlers. I fully recommend this course for beginners and intermediate programmers. There is something new for everybody and its always good to re-visit these subjects to reinforce your brain.
+
+10/10
